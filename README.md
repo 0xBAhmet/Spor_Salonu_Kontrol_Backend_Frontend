@@ -1,3 +1,4 @@
+
 # 🏋️ Spor Salonu Otomasyon Sistemi
 
 Modern ve kullanımı kolay bir spor salonu yönetim uygulaması. C# (.NET) tabanlı REST API ile React (Vite) tabanlı arayüzden oluşmaktadır.
@@ -90,3 +91,12 @@ Uygulama masaüstü ve mobil cihazlar için tam uyumlu (responsive) olarak tasar
 | Giderler | `GET/POST/DELETE /api/giderler` |
 | Kategoriler | `GET/POST/PUT/DELETE /api/giderler/kategoriler` |
 | Yaklaşan Ödemeler | `GET /api/odemeler/suresi-dolanlar` |
+
+
+
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/d62640ce-afe1-411a-9201-662930403885" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/836c2fcc-d28f-4e6a-bcf1-bae453f4cf25" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/14f8b93f-dd3b-487a-9ac1-6ce13993403c" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/c2e9fe3b-a3f8-4441-b286-ee816bd688f1" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/6d7a6683-831e-4bea-a93b-92f2bf50edca" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/3bebf0f8-883d-452d-b31d-f45e321fc2f6" />
