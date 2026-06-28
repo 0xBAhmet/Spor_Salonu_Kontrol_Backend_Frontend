@@ -1,0 +1,6 @@
+@SporSalonu_Otomasyonu_HostAddress = http://localhost:5079
+
+GET {{SporSalonu_Otomasyonu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,22 @@
+# .gitignore
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+
+# Frontend
+GymFrontend/node_modules/
+GymFrontend/dist/
+GymFrontend/.vite/
+
+# Environment / Secrets
+appsettings.Development.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
